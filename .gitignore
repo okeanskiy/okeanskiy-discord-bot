@@ -1,0 +1,7 @@
+node_modules/
+out/
+*.txt
+*.db
+.ssh/
+config.json
+.env
